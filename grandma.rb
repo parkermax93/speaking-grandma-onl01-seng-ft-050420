@@ -15,4 +15,4 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase)
-  if speak_to_grandma == 
+  if speak_to_grandma == phase.upcase
